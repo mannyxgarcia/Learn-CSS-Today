@@ -1,0 +1,21 @@
+.name {
+  text-align: center;
+}
+
+.hobbies,
+.languages {
+  background-color: green;
+  color: white;
+}
+
+.title {
+  font-family: arial;
+}
+
+.first {
+  color: cyan;
+}
+
+.no {
+  text-decoration-line: line-through;
+}
